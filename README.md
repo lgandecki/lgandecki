@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm currently building https://bookgenius.net 
+
 BookGenius is an open-source eBook reader for the AI era - questions without spoilers, avatars, music, and more
 
 2026 is my "all in on Convex" year
