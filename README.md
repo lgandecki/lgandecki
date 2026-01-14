@@ -4,7 +4,8 @@ I'm currently building https://bookgenius.net
 
 BookGenius is an open-source eBook reader for the AI era - questions without spoilers, avatars, music, and more
 
-2026 is my "[All-In Year on Convex](https://blog-git-convex-post-lukasz-gandeckis-projects.vercel.app/blog/2026-year-of-convex)"
+2026: [All-In on Convex](https://blog-git-convex-post-lukasz-gandeckis-projects.vercel.app/blog/2026-year-of-convex)
+
 
 <!--
 **lgandecki/lgandecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
